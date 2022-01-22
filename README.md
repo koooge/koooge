@@ -6,16 +6,8 @@
 - [koooge/webauthn-sample](https://github.com/koooge/webauthn-sample) - WebAuthn sample (6 days ago)
 - [koooge/vite-vue-ts-sample](https://github.com/koooge/vite-vue-ts-sample) - Sample repo of vue3, vite, and typescript (2 weeks ago)
 - [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (2 weeks ago)
-- [koooge/static](https://github.com/koooge/static) - My static files (2 weeks ago)
 - [koooge/advent-of-code-2021](https://github.com/koooge/advent-of-code-2021) - https://adventofcode.com/ (3 weeks ago)
-
-#### 🌱 My latest projects
-
-- [koooge/webauthn-sample](https://github.com/koooge/webauthn-sample) - WebAuthn sample
-- [koooge/vite-vue-ts-sample](https://github.com/koooge/vite-vue-ts-sample) - Sample repo of vue3, vite, and typescript
-- [koooge/static](https://github.com/koooge/static) - My static files
-- [koooge/advent-of-code-2021](https://github.com/koooge/advent-of-code-2021) - https://adventofcode.com/
-- [koooge/vite-vue-lib-sample](https://github.com/koooge/vite-vue-lib-sample) - 
+- [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
