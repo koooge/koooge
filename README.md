@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.10.1](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.10.1), 3 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.73.0), 6 days ago) - Terraform AWS provider
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.10.1](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.10.1), 4 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.73.0), 1 week ago) - Terraform AWS provider
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) ([v10.0.0](https://github.com/vuejs/eslint-config-typescript/releases/tag/v10.0.0), 1 month ago) - eslint-config-typescript for vue-cli
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 2 months ago) - 🔬 Utilities for testing Vue components
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202107.00](https://github.com/aws/amazon-freertos/releases/tag/202107.00), 6 months ago) - IoT operating system for microcontrollers.
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend (4 days ago)
-- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (4 days ago)
-- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (4 days ago)
-- [fido-alliance/webauthn-demo](https://github.com/fido-alliance/webauthn-demo) - WebAuthn Workshop Demo [Completed DEMO is at completed demo-branch] (4 days ago)
-- [webauthn-open-source/fido2-lib](https://github.com/webauthn-open-source/fido2-lib) - A node.js library for performing FIDO 2.0 / WebAuthn server functionality (4 days ago)
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps (today)
+- [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support (1 day ago)
+- [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend (5 days ago)
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. (5 days ago)
+- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (5 days ago)
