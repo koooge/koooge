@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.74.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.74.0), 2 days ago) - Terraform AWS provider
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.10.1](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.10.1), 6 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.74.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.74.0), 3 days ago) - Terraform AWS provider
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.10.1](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.10.1), 1 week ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) ([v10.0.0](https://github.com/vuejs/eslint-config-typescript/releases/tag/v10.0.0), 1 month ago) - eslint-config-typescript for vue-cli
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 2 months ago) - 🔬 Utilities for testing Vue components
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202107.00](https://github.com/aws/amazon-freertos/releases/tag/202107.00), 6 months ago) - IoT operating system for microcontrollers.
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [ezolenko/rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Rollup plugin for typescript with compiler errors. (1 day ago)
-- [TrySound/rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Rollup plugin to minify generated bundle (2 days ago)
-- [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules. (2 days ago)
-- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development (2 days ago)
-- [johnloy/esm-commonjs-interop-manual](https://github.com/johnloy/esm-commonjs-interop-manual) -  (2 days ago)
+- [ezolenko/rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Rollup plugin for typescript with compiler errors. (2 days ago)
+- [TrySound/rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Rollup plugin to minify generated bundle (3 days ago)
+- [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules. (3 days ago)
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development (3 days ago)
+- [johnloy/esm-commonjs-interop-manual](https://github.com/johnloy/esm-commonjs-interop-manual) -  (3 days ago)
