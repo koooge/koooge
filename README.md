@@ -3,16 +3,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (6 days ago)
+- [koooge/leetcode](https://github.com/koooge/leetcode) - https://leetcode.com (1 day ago)
+- [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (1 week ago)
 - [koooge/ubuntu-focal-provisioning](https://github.com/koooge/ubuntu-focal-provisioning) - Provisioning files for Ubuntu 20.04 (focal) (1 week ago)
 - [koooge/webauthn-sample](https://github.com/koooge/webauthn-sample) - WebAuthn sample (3 weeks ago)
 - [koooge/vite-vue-ts-sample](https://github.com/koooge/vite-vue-ts-sample) - Sample repo of vue3, vite, and typescript (1 month ago)
-- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v4.0.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v4.0.0), 1 day ago) - Terraform AWS provider
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.11.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.11.0), 4 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.11.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.11.0), 5 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) ([v10.0.0](https://github.com/vuejs/eslint-config-typescript/releases/tag/v10.0.0), 1 month ago) - eslint-config-typescript for vue-cli
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 2 months ago) - Component Test Utils for Vue 2
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202107.00](https://github.com/aws/amazon-freertos/releases/tag/202107.00), 7 months ago) - IoT operating system for microcontrollers.
@@ -27,8 +26,8 @@
 
 #### ⭐ Recent Stars
 
-- [nfnt/resize](https://github.com/nfnt/resize) - Pure golang image resizing  (2 days ago)
-- [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM (3 days ago)
-- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository. (3 days ago)
-- [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (4 days ago)
-- [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪 (6 days ago)
+- [nfnt/resize](https://github.com/nfnt/resize) - Pure golang image resizing  (3 days ago)
+- [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM (4 days ago)
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository. (4 days ago)
+- [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (5 days ago)
+- [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪 (1 week ago)
