@@ -6,15 +6,15 @@
 - [koooge/leetcode](https://github.com/koooge/leetcode) - https://leetcode.com (3 weeks ago)
 - [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (1 month ago)
 - [koooge/ubuntu-focal-provisioning](https://github.com/koooge/ubuntu-focal-provisioning) - Provisioning files for Ubuntu 20.04 (focal) (1 month ago)
-- [koooge/webauthn-sample](https://github.com/koooge/webauthn-sample) - WebAuthn sample (1 month ago)
+- [koooge/webauthn-sample](https://github.com/koooge/webauthn-sample) - WebAuthn sample (2 months ago)
 - [koooge/vite-vue-ts-sample](https://github.com/koooge/vite-vue-ts-sample) - Sample repo of vue3, vite, and typescript (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.15.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.15.0), 2 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202203.00](https://github.com/aws/amazon-freertos/releases/tag/202203.00), 1 day ago) - IoT operating system for microcontrollers.
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.15.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.15.0), 3 days ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) ([v10.0.0](https://github.com/vuejs/eslint-config-typescript/releases/tag/v10.0.0), 2 months ago) - eslint-config-typescript for vue-cli
-- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 3 months ago) - Component Test Utils for Vue 2
-- [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202107.00](https://github.com/aws/amazon-freertos/releases/tag/202107.00), 8 months ago) - IoT operating system for microcontrollers.
+- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 4 months ago) - Component Test Utils for Vue 2
 
 #### 🔨 My recent Pull Requests
 
@@ -29,5 +29,5 @@
 - [JPCERTCC/EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS (1 week ago)
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK (1 week ago)
 - [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) - 🏷️ GitHub Action to output a semver update level from a pull request release label (1 week ago)
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 week ago)
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (2 weeks ago)
 - [Freenove/Freenove_Ultimate_Starter_Kit_for_microbit](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_microbit) - Apply to FNK0045 (2 weeks ago)
