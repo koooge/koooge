@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202203.00](https://github.com/aws/amazon-freertos/releases/tag/202203.00), 5 days ago) - IoT operating system for microcontrollers.
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.15.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.15.0), 1 week ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ([v5.16.0](https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.16.0), 1 day ago) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [aws/amazon-freertos](https://github.com/aws/amazon-freertos) ([202203.00](https://github.com/aws/amazon-freertos/releases/tag/202203.00), 6 days ago) - IoT operating system for microcontrollers.
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) ([v10.0.0](https://github.com/vuejs/eslint-config-typescript/releases/tag/v10.0.0), 2 months ago) - eslint-config-typescript for vue-cli
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) ([v1.3.0](https://github.com/vuejs/vue-test-utils/releases/tag/v1.3.0), 4 months ago) - Component Test Utils for Vue 2
 
