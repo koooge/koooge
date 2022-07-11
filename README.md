@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [koooge/eslint-config-typescript-1011](https://github.com/koooge/eslint-config-typescript-1011) -  (3 weeks ago)
-- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (4 weeks ago)
+- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [koooge/leetcode](https://github.com/koooge/leetcode) - https://leetcode.com (2 months ago)
 - [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (5 months ago)
