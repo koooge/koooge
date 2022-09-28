@@ -5,7 +5,7 @@
 
 - [koooge/ubuntu-focal-provisioning](https://github.com/koooge/ubuntu-focal-provisioning) - Provisioning files for Ubuntu 20.04 (focal) (1 week ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (3 weeks ago)
-- [koooge/kafka-practice](https://github.com/koooge/kafka-practice) -  (4 weeks ago)
+- [koooge/kafka-practice](https://github.com/koooge/kafka-practice) -  (1 month ago)
 - [koooge/npm-workspaces-2versions](https://github.com/koooge/npm-workspaces-2versions) -  (2 months ago)
 - [koooge/eslint-config-typescript-1011](https://github.com/koooge/eslint-config-typescript-1011) -  (3 months ago)
 
