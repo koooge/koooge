@@ -14,5 +14,5 @@
 - [test: stylelint](https://github.com/koooge/hugo-theme-geppaku/pull/5) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (8 months ago)
 - [chore: Update support hugo version](https://github.com/koooge/hugo-theme-geppaku/pull/4) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (8 months ago)
 - [chore: Update hugo](https://github.com/masa0221/hugo-theme-geppaku/pull/16) on [masa0221/hugo-theme-geppaku](https://github.com/masa0221/hugo-theme-geppaku) (8 months ago)
-- [chore: Replace swagger-cli with spectral](https://github.com/koooge/redash-api-doc/pull/11) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (9 months ago)
-- [chore: rename master to main](https://github.com/koooge/redash-api-doc/pull/10) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (9 months ago)
+- [chore: Replace swagger-cli with spectral](https://github.com/koooge/redash-api-doc/pull/11) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (10 months ago)
+- [chore: rename master to main](https://github.com/koooge/redash-api-doc/pull/10) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (10 months ago)
