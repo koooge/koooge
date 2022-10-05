@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update stylelint](https://github.com/koooge/hugo-theme-geppaku/pull/6) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Update stylelint](https://github.com/koooge/hugo-theme-geppaku/pull/6) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (2 days ago)
 - [test: stylelint](https://github.com/koooge/hugo-theme-geppaku/pull/5) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (8 months ago)
 - [chore: Update support hugo version](https://github.com/koooge/hugo-theme-geppaku/pull/4) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (8 months ago)
 - [chore: Update hugo](https://github.com/masa0221/hugo-theme-geppaku/pull/16) on [masa0221/hugo-theme-geppaku](https://github.com/masa0221/hugo-theme-geppaku) (8 months ago)
