@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (5 days ago)
+- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (6 days ago)
 - [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (1 month ago)
 - [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (2 months ago)
 - [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (2 months ago)
