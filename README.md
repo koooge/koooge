@@ -13,6 +13,6 @@
 
 - [Delete package-lock.json](https://github.com/koooge/jest-expecto-patronum/pull/3) on [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) (1 month ago)
 - [chore: upgrade pnpm@7](https://github.com/vbenjs/vite-plugin-html/pull/101) on [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) (1 month ago)
-- [chore: Drop node 12](https://github.com/vlucas/frisby/pull/585) on [vlucas/frisby](https://github.com/vlucas/frisby) (1 month ago)
+- [chore: Drop node 12](https://github.com/vlucas/frisby/pull/585) on [vlucas/frisby](https://github.com/vlucas/frisby) (2 months ago)
 - [chore: CI node18](https://github.com/vlucas/frisby/pull/584) on [vlucas/frisby](https://github.com/vlucas/frisby) (2 months ago)
 - [chore: Update stylelint](https://github.com/koooge/hugo-theme-geppaku/pull/6) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (3 months ago)
