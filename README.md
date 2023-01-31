@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [doc: Revert &#34;Re-deprecate (#1445)&#34;](https://github.com/uber/react-vis/pull/1471) on [uber/react-vis](https://github.com/uber/react-vis) (6 days ago)
+- [doc: Revert &#34;Re-deprecate (#1445)&#34;](https://github.com/uber/react-vis/pull/1471) on [uber/react-vis](https://github.com/uber/react-vis) (1 week ago)
 - [Delete package-lock.json](https://github.com/koooge/jest-expecto-patronum/pull/3) on [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) (2 months ago)
 - [chore: upgrade pnpm@7](https://github.com/vbenjs/vite-plugin-html/pull/101) on [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) (2 months ago)
 - [chore: Drop node 12](https://github.com/vlucas/frisby/pull/585) on [vlucas/frisby](https://github.com/vlucas/frisby) (2 months ago)
