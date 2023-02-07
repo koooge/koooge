@@ -3,16 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (5 days ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 day ago)
+- [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 day ago)
+- [annict/annict](https://github.com/annict/annict) - A platform for anime addicts built with Rails and Hotwire. (2 days ago)
+- [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (6 days ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 month ago)
-- [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) - Jest matcher expecto patronum! (2 months ago)
-- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (4 months ago)
-- [koooge/ubuntu-focal-provisioning](https://github.com/koooge/ubuntu-focal-provisioning) - Provisioning files for Ubuntu 20.04 (focal) (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update link](https://github.com/annict/annict/pull/3897) on [annict/annict](https://github.com/annict/annict) (1 day ago)
-- [fix: Allow joi at least 13.7.0](https://github.com/vlucas/frisby/pull/587) on [vlucas/frisby](https://github.com/vlucas/frisby) (5 days ago)
-- [doc: Revert &#34;Re-deprecate (#1445)&#34;](https://github.com/uber/react-vis/pull/1471) on [uber/react-vis](https://github.com/uber/react-vis) (1 week ago)
+- [chore: Update link](https://github.com/annict/annict/pull/3897) on [annict/annict](https://github.com/annict/annict) (2 days ago)
+- [fix: Allow joi at least 13.7.0](https://github.com/vlucas/frisby/pull/587) on [vlucas/frisby](https://github.com/vlucas/frisby) (6 days ago)
+- [doc: Revert &#34;Re-deprecate (#1445)&#34;](https://github.com/uber/react-vis/pull/1471) on [uber/react-vis](https://github.com/uber/react-vis) (2 weeks ago)
 - [Delete package-lock.json](https://github.com/koooge/jest-expecto-patronum/pull/3) on [koooge/jest-expecto-patronum](https://github.com/koooge/jest-expecto-patronum) (2 months ago)
 - [chore: upgrade pnpm@7](https://github.com/vbenjs/vite-plugin-html/pull/101) on [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) (2 months ago)
