@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (6 days ago)
-- [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (6 days ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 week ago)
+- [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 week ago)
 - [annict/annict](https://github.com/annict/annict) - A platform for anime addicts built with Rails and Hotwire. (1 week ago)
 - [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (1 week ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 month ago)
