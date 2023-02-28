@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/react-practice](https://github.com/koooge/react-practice) -  (5 days ago)
+- [koooge/react-practice](https://github.com/koooge/react-practice) -  (6 days ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (3 weeks ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (3 weeks ago)
 - [annict/annict](https://github.com/annict/annict) - A platform for anime addicts built with Rails and Hotwire. (3 weeks ago)
