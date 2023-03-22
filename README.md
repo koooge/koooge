@@ -4,15 +4,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (2 weeks ago)
-- [koooge/react-practice](https://github.com/koooge/react-practice) -  (3 weeks ago)
+- [koooge/react-practice](https://github.com/koooge/react-practice) -  (4 weeks ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
 - [annict/annict](https://github.com/annict/annict) - A platform for anime addicts built with Rails and Hotwire. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add no-cli mode](https://github.com/devowlio/node-gitlab-ci/pull/13) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (1 day ago)
+- [chore: prepublish](https://github.com/devowlio/node-gitlab-ci/pull/12) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (1 day ago)
 - [test: Upgrade jest 26 to 29](https://github.com/foliojs/pdfkit/pull/1427) on [foliojs/pdfkit](https://github.com/foliojs/pdfkit) (2 weeks ago)
 - [test: CI node16 and 18](https://github.com/foliojs/pdfkit/pull/1426) on [foliojs/pdfkit](https://github.com/foliojs/pdfkit) (2 weeks ago)
 - [chore: Update link](https://github.com/annict/annict/pull/3897) on [annict/annict](https://github.com/annict/annict) (1 month ago)
-- [fix: Allow joi at least 13.7.0](https://github.com/vlucas/frisby/pull/587) on [vlucas/frisby](https://github.com/vlucas/frisby) (1 month ago)
-- [doc: Revert &#34;Re-deprecate (#1445)&#34;](https://github.com/uber/react-vis/pull/1471) on [uber/react-vis](https://github.com/uber/react-vis) (1 month ago)
