@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add no-cli mode](https://github.com/devowlio/node-gitlab-ci/pull/13) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (3 days ago)
-- [chore: prepublish](https://github.com/devowlio/node-gitlab-ci/pull/12) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (3 days ago)
+- [feat: add no-cli mode](https://github.com/devowlio/node-gitlab-ci/pull/13) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (4 days ago)
+- [chore: prepublish](https://github.com/devowlio/node-gitlab-ci/pull/12) on [devowlio/node-gitlab-ci](https://github.com/devowlio/node-gitlab-ci) (4 days ago)
 - [test: Upgrade jest 26 to 29](https://github.com/foliojs/pdfkit/pull/1427) on [foliojs/pdfkit](https://github.com/foliojs/pdfkit) (2 weeks ago)
 - [test: CI node16 and 18](https://github.com/foliojs/pdfkit/pull/1426) on [foliojs/pdfkit](https://github.com/foliojs/pdfkit) (2 weeks ago)
 - [chore: Update link](https://github.com/annict/annict/pull/3897) on [annict/annict](https://github.com/annict/annict) (1 month ago)
