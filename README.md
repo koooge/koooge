@@ -3,16 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (5 days ago)
+- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (today)
+- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (6 days ago)
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (1 month ago)
 - [koooge/react-practice](https://github.com/koooge/react-practice) -  (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 months ago)
-- [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: modify workflow types](https://github.com/netinsight/gitlab-yml/pull/6) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
-- [chore: add dependabot.yml](https://github.com/netinsight/gitlab-yml/pull/5) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
-- [test: create initial ci](https://github.com/netinsight/gitlab-yml/pull/4) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
-- [feat: revert config#workflow](https://github.com/netinsight/gitlab-yml/pull/3) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
-- [feat: Export ./oas30 and ./oas31](https://github.com/metadevpro/openapi3-ts/pull/111) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (5 days ago)
+- [chore: Update hugo version 92 to 111](https://github.com/koooge/hugo-theme-geppaku/pull/14) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [chore: Upgrade stylelint to 15](https://github.com/koooge/hugo-theme-geppaku/pull/13) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Upgrade node version for dev 16 to 18](https://github.com/koooge/hugo-theme-geppaku/pull/11) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Create dependabot.yml](https://github.com/koooge/hugo-theme-geppaku/pull/7) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Add github-actions for dependabot](https://github.com/koooge/redash-api-doc/pull/50) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (1 day ago)
