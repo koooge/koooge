@@ -3,16 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (today)
-- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (6 days ago)
+- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 day ago)
+- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (1 week ago)
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (1 month ago)
 - [koooge/react-practice](https://github.com/koooge/react-practice) -  (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update hugo version 92 to 111](https://github.com/koooge/hugo-theme-geppaku/pull/14) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
-- [chore: Upgrade stylelint to 15](https://github.com/koooge/hugo-theme-geppaku/pull/13) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
-- [chore: Upgrade node version for dev 16 to 18](https://github.com/koooge/hugo-theme-geppaku/pull/11) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
-- [chore: Create dependabot.yml](https://github.com/koooge/hugo-theme-geppaku/pull/7) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
-- [chore: Add github-actions for dependabot](https://github.com/koooge/redash-api-doc/pull/50) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (1 day ago)
+- [fix: Support subpath for tsc with moduleResolutin node](https://github.com/metadevpro/openapi3-ts/pull/117) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 day ago)
+- [fix: Export with .mjs extension](https://github.com/metadevpro/openapi3-ts/pull/116) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 day ago)
+- [test: Test with hugo 111](https://github.com/koooge/hugo-theme-geppaku/pull/15) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Update hugo version 92 to 111](https://github.com/koooge/hugo-theme-geppaku/pull/14) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: Upgrade stylelint to 15](https://github.com/koooge/hugo-theme-geppaku/pull/13) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (2 days ago)
