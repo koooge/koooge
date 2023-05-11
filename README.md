@@ -3,16 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (2 days ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 day ago)
+- [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 day ago)
 - [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (2 weeks ago)
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (2 months ago)
 - [koooge/react-practice](https://github.com/koooge/react-practice) -  (2 months ago)
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update projects](https://github.com/koooge/redash-api-doc/pull/56) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (2 days ago)
-- [feat: Add imagePullSecrets to telegraf-ds](https://github.com/influxdata/helm-charts/pull/558) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (6 days ago)
-- [refactor: Deduplicate env var](https://github.com/influxdata/helm-charts/pull/556) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (1 week ago)
-- [fix: Support subpath for tsc with moduleResolutin node](https://github.com/metadevpro/openapi3-ts/pull/117) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (2 weeks ago)
-- [fix: Export with .mjs extension](https://github.com/metadevpro/openapi3-ts/pull/116) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (2 weeks ago)
+- [fix: Fix deploy](https://github.com/koooge/redash-api-doc/pull/58) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (1 day ago)
+- [chore: Update projects](https://github.com/koooge/redash-api-doc/pull/56) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (3 days ago)
+- [feat: Add imagePullSecrets to telegraf-ds](https://github.com/influxdata/helm-charts/pull/558) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (1 week ago)
+- [refactor: Deduplicate env var](https://github.com/influxdata/helm-charts/pull/556) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (2 weeks ago)
+- [fix: Support subpath for tsc with moduleResolutin node](https://github.com/metadevpro/openapi3-ts/pull/117) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (3 weeks ago)
