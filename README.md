@@ -7,7 +7,7 @@
 - [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 week ago)
 - [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (1 month ago)
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (2 months ago)
-- [koooge/react-practice](https://github.com/koooge/react-practice) -  (2 months ago)
+- [koooge/react-practice](https://github.com/koooge/react-practice) -  (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
