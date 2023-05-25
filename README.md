@@ -13,6 +13,6 @@
 
 - [fix: Fix deploy](https://github.com/koooge/redash-api-doc/pull/58) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (2 weeks ago)
 - [chore: Update projects](https://github.com/koooge/redash-api-doc/pull/56) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (2 weeks ago)
-- [feat: Add imagePullSecrets to telegraf-ds](https://github.com/influxdata/helm-charts/pull/558) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (2 weeks ago)
-- [refactor: Deduplicate env var](https://github.com/influxdata/helm-charts/pull/556) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (3 weeks ago)
+- [feat: Add imagePullSecrets to telegraf-ds](https://github.com/influxdata/helm-charts/pull/558) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (3 weeks ago)
+- [refactor: Deduplicate env var](https://github.com/influxdata/helm-charts/pull/556) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (4 weeks ago)
 - [fix: Support subpath for tsc with moduleResolutin node](https://github.com/metadevpro/openapi3-ts/pull/117) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 month ago)
