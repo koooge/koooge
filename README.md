@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [influxdb2/chore: update version to v2.7.1](https://github.com/influxdata/helm-charts/pull/563) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (5 days ago)
+- [influxdb2/chore: update version to v2.7.1](https://github.com/influxdata/helm-charts/pull/563) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (6 days ago)
 - [fix: Fix deploy](https://github.com/koooge/redash-api-doc/pull/58) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (1 month ago)
 - [chore: Update projects](https://github.com/koooge/redash-api-doc/pull/56) on [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) (1 month ago)
 - [feat: Add imagePullSecrets to telegraf-ds](https://github.com/influxdata/helm-charts/pull/558) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (1 month ago)
