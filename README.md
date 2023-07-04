@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 week ago)
-- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 week ago)
+- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (2 weeks ago)
 - [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (1 month ago)
 - [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (2 months ago)
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser (3 months ago)
@@ -12,7 +12,7 @@
 #### 🔨 My recent Pull Requests
 
 - [chore: Upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/11) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 week ago)
-- [chore: gitignore and publish lib/](https://github.com/netinsight/gitlab-yml/pull/10) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 week ago)
-- [chore: gitignore package-lock.json](https://github.com/netinsight/gitlab-yml/pull/9) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 week ago)
-- [chore: Delete tslint form vscode/extensions.json](https://github.com/netinsight/gitlab-yml/pull/8) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 week ago)
-- [chore: deprecate only and except](https://github.com/netinsight/gitlab-yml/pull/7) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 week ago)
+- [chore: gitignore and publish lib/](https://github.com/netinsight/gitlab-yml/pull/10) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
+- [chore: gitignore package-lock.json](https://github.com/netinsight/gitlab-yml/pull/9) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
+- [chore: Delete tslint form vscode/extensions.json](https://github.com/netinsight/gitlab-yml/pull/8) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
+- [chore: deprecate only and except](https://github.com/netinsight/gitlab-yml/pull/7) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
