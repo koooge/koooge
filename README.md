@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump 0.4.3](https://github.com/netinsight/gitlab-yml/pull/14) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [chore: bump 0.4.3](https://github.com/karlbohlmark/node-gitlab-ci/pull/1) on [karlbohlmark/node-gitlab-ci](https://github.com/karlbohlmark/node-gitlab-ci) (1 day ago)
+- [fix: build in postinstall](https://github.com/netinsight/gitlab-yml/pull/13) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [fix: install husky in prepare](https://github.com/netinsight/gitlab-yml/pull/12) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
 - [chore: Upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/11) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
-- [chore: gitignore and publish lib/](https://github.com/netinsight/gitlab-yml/pull/10) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
-- [chore: gitignore package-lock.json](https://github.com/netinsight/gitlab-yml/pull/9) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
-- [chore: Delete tslint form vscode/extensions.json](https://github.com/netinsight/gitlab-yml/pull/8) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
-- [chore: deprecate only and except](https://github.com/netinsight/gitlab-yml/pull/7) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
