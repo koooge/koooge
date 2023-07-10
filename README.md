@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump 0.4.3](https://github.com/netinsight/gitlab-yml/pull/14) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 days ago)
-- [chore: bump 0.4.3](https://github.com/karlbohlmark/node-gitlab-ci/pull/1) on [karlbohlmark/node-gitlab-ci](https://github.com/karlbohlmark/node-gitlab-ci) (2 days ago)
-- [fix: build in postinstall](https://github.com/netinsight/gitlab-yml/pull/13) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 days ago)
-- [fix: install husky in prepare](https://github.com/netinsight/gitlab-yml/pull/12) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 days ago)
+- [chore: bump 0.4.3](https://github.com/netinsight/gitlab-yml/pull/14) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
+- [chore: bump 0.4.3](https://github.com/karlbohlmark/node-gitlab-ci/pull/1) on [karlbohlmark/node-gitlab-ci](https://github.com/karlbohlmark/node-gitlab-ci) (3 days ago)
+- [fix: build in postinstall](https://github.com/netinsight/gitlab-yml/pull/13) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
+- [fix: install husky in prepare](https://github.com/netinsight/gitlab-yml/pull/12) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
 - [chore: Upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/11) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 weeks ago)
