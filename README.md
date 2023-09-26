@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart (1 week ago)
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart (2 weeks ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (3 months ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (3 months ago)
 - [koooge/redash-api-doc](https://github.com/koooge/redash-api-doc) - redash API documentation with OpenAPI 3 (4 months ago)
@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [redpanda/feat: Allow jobs and sts to have the same affinity](https://github.com/redpanda-data/helm-charts/pull/747) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (2 days ago)
+- [redpanda/feat: Allow jobs and sts to have the same affinity](https://github.com/redpanda-data/helm-charts/pull/747) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (3 days ago)
 - [redpanda/feat: Allow to set affinity for jobs](https://github.com/redpanda-data/helm-charts/pull/715) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (2 weeks ago)
 - [feat: Add missing keys of cache](https://github.com/netinsight/gitlab-yml/pull/15) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
 - [chore: bump 0.4.3](https://github.com/netinsight/gitlab-yml/pull/14) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
