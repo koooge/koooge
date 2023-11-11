@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [redpanda/fix: Fix the conditions for the values of console](https://github.com/redpanda-data/helm-charts/pull/856) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (2 days ago)
+- [redpanda/fix: Fix the conditions for the values of console](https://github.com/redpanda-data/helm-charts/pull/856) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (3 days ago)
 - [redpanda/fix: Fix line breaks in statefulset.affinity](https://github.com/redpanda-data/helm-charts/pull/830) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (2 weeks ago)
 - [chore: Update node-fetch](https://github.com/vlucas/frisby/pull/597) on [vlucas/frisby](https://github.com/vlucas/frisby) (2 weeks ago)
 - [test: Test node20 and drop 16](https://github.com/vlucas/frisby/pull/596) on [vlucas/frisby](https://github.com/vlucas/frisby) (2 weeks ago)
