@@ -3,15 +3,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/npm-cli-6856](https://github.com/koooge/npm-cli-6856) - npm/cli#6856 (1 day ago)
+- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (2 days ago)
+- [koooge/npm-cli-6856](https://github.com/koooge/npm-cli-6856) - npm/cli#6856 (2 days ago)
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart (4 weeks ago)
 - [koooge/react-practice](https://github.com/koooge/react-practice) -  (1 month ago)
 - [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (1 month ago)
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Fix TypeError of topNodes](https://github.com/kubernetes-client/javascript/pull/1445) on [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) (1 day ago)
+- [fix: Fix TypeError of topNodes](https://github.com/kubernetes-client/javascript/pull/1445) on [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) (2 days ago)
 - [redpanda/fix: Fix the conditions for the values of console](https://github.com/redpanda-data/helm-charts/pull/856) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (2 weeks ago)
 - [redpanda/fix: Fix line breaks in statefulset.affinity](https://github.com/redpanda-data/helm-charts/pull/830) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (4 weeks ago)
 - [chore: Update node-fetch](https://github.com/vlucas/frisby/pull/597) on [vlucas/frisby](https://github.com/vlucas/frisby) (1 month ago)
