@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (1 week ago)
+- [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 day ago)
+- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 day ago)
 - [koooge/npm-cli-6856](https://github.com/koooge/npm-cli-6856) - npm/cli#6856 (1 week ago)
+- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (1 week ago)
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart (1 month ago)
-- [koooge/react-practice](https://github.com/koooge/react-practice) -  (1 month ago)
-- [vlucas/frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
