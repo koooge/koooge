@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) -  (1 day ago)
-- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (3 days ago)
+- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) -  (2 days ago)
+- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (4 days ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (3 weeks ago)
 - [koooge/npm-cli-6856](https://github.com/koooge/npm-cli-6856) - npm/cli#6856 (1 month ago)
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (1 month ago)
