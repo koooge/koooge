@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) - passkeys practice (6 days ago)
+- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) - passkeys practice (1 week ago)
 - [MasterKale/SimpleWebAuthn-homepage](https://github.com/MasterKale/SimpleWebAuthn-homepage) - Repository for https://simplewebauthn.dev (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 month ago)
