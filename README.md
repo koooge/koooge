@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) - passkeys practice (1 week ago)
+- [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) - passkeys practice (2 weeks ago)
 - [MasterKale/SimpleWebAuthn-homepage](https://github.com/MasterKale/SimpleWebAuthn-homepage) - Repository for https://simplewebauthn.dev (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 month ago)
@@ -13,6 +13,6 @@
 
 - [fix: Fix the type of Authenticator.transports](https://github.com/MasterKale/SimpleWebAuthn-homepage/pull/44) on [MasterKale/SimpleWebAuthn-homepage](https://github.com/MasterKale/SimpleWebAuthn-homepage) (2 weeks ago)
 - [[kube-prometheus-stack] Label promstack-operator pods with k8s recommended labels](https://github.com/prometheus-community/helm-charts/pull/4094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 months ago)
-- [fix: Fix TypeError of topNodes](https://github.com/kubernetes-client/javascript/pull/1445) on [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) (2 months ago)
+- [fix: Fix TypeError of topNodes](https://github.com/kubernetes-client/javascript/pull/1445) on [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) (3 months ago)
 - [redpanda/fix: Fix the conditions for the values of console](https://github.com/redpanda-data/helm-charts/pull/856) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (3 months ago)
 - [redpanda/fix: Fix line breaks in statefulset.affinity](https://github.com/redpanda-data/helm-charts/pull/830) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (3 months ago)
