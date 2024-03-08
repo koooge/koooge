@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Set up CI](https://github.com/netinsight/schemats/pull/7) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [chore: Set up CI](https://github.com/Foosvald/schemats/pull/4) on [Foosvald/schemats](https://github.com/Foosvald/schemats) (1 day ago)
 - [fix: Fix the type of Authenticator.transports](https://github.com/MasterKale/SimpleWebAuthn-homepage/pull/44) on [MasterKale/SimpleWebAuthn-homepage](https://github.com/MasterKale/SimpleWebAuthn-homepage) (1 month ago)
 - [[kube-prometheus-stack] Label promstack-operator pods with k8s recommended labels](https://github.com/prometheus-community/helm-charts/pull/4094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 months ago)
 - [fix: Fix TypeError of topNodes](https://github.com/kubernetes-client/javascript/pull/1445) on [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) (3 months ago)
-- [redpanda/fix: Fix the conditions for the values of console](https://github.com/redpanda-data/helm-charts/pull/856) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (4 months ago)
-- [redpanda/fix: Fix line breaks in statefulset.affinity](https://github.com/redpanda-data/helm-charts/pull/830) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) (4 months ago)
