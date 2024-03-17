@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: Replace mocha with jest](https://github.com/netinsight/schemats/pull/10) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
-- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 days ago)
-- [test: fix unit test](https://github.com/netinsight/schemats/pull/8) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 days ago)
+- [test: Replace mocha with jest](https://github.com/netinsight/schemats/pull/10) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 days ago)
+- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 days ago)
+- [test: fix unit test](https://github.com/netinsight/schemats/pull/8) on [netinsight/schemats](https://github.com/netinsight/schemats) (4 days ago)
 - [chore: Set up CI](https://github.com/netinsight/schemats/pull/7) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 week ago)
 - [chore: Set up CI](https://github.com/Foosvald/schemats/pull/4) on [Foosvald/schemats](https://github.com/Foosvald/schemats) (1 week ago)
