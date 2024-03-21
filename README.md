@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Replace tslint with estslint](https://github.com/netinsight/schemats/pull/13) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 days ago)
-- [test: CI integration test](https://github.com/netinsight/schemats/pull/12) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 days ago)
-- [test: Fix integration test](https://github.com/netinsight/schemats/pull/11) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 days ago)
-- [test: Replace mocha with jest](https://github.com/netinsight/schemats/pull/10) on [netinsight/schemats](https://github.com/netinsight/schemats) (5 days ago)
-- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (6 days ago)
+- [chore: Replace tslint with estslint](https://github.com/netinsight/schemats/pull/13) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 days ago)
+- [test: CI integration test](https://github.com/netinsight/schemats/pull/12) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 days ago)
+- [test: Fix integration test](https://github.com/netinsight/schemats/pull/11) on [netinsight/schemats](https://github.com/netinsight/schemats) (4 days ago)
+- [test: Replace mocha with jest](https://github.com/netinsight/schemats/pull/10) on [netinsight/schemats](https://github.com/netinsight/schemats) (6 days ago)
+- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 week ago)
