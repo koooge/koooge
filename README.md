@@ -15,4 +15,4 @@
 - [test: CI integration test](https://github.com/netinsight/schemats/pull/12) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 weeks ago)
 - [test: Fix integration test](https://github.com/netinsight/schemats/pull/11) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 weeks ago)
 - [test: Replace mocha with jest](https://github.com/netinsight/schemats/pull/10) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 weeks ago)
-- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 weeks ago)
+- [chore: Move .js to dist/](https://github.com/netinsight/schemats/pull/9) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 weeks ago)
