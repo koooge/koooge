@@ -7,7 +7,7 @@
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
 - [koooge/passkeys-sample](https://github.com/koooge/passkeys-sample) - passkeys practice (3 months ago)
 - [MasterKale/SimpleWebAuthn-homepage](https://github.com/MasterKale/SimpleWebAuthn-homepage) - Repository for https://simplewebauthn.dev (3 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
