@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
-- [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (1 week ago)
+- [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (2 weeks ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 weeks ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (2 weeks ago)
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (2 months ago)
