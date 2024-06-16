@@ -14,5 +14,5 @@
 - [eksctl: remove aws-iam-authenticator](https://github.com/Homebrew/homebrew-core/pull/173593) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [fix: update software-terms dict](https://github.com/streetsidesoftware/cspell-dicts/pull/3242) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 weeks ago)
 - [Ignore missing containers when compose down/stop -p](https://github.com/docker/compose/pull/11692) on [docker/compose](https://github.com/docker/compose) (2 months ago)
-- [chore: Replace tslint with estslint](https://github.com/netinsight/schemats/pull/13) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
-- [test: CI integration test](https://github.com/netinsight/schemats/pull/12) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
+- [chore: Replace tslint with estslint](https://github.com/netinsight/schemats/pull/13) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
+- [test: CI integration test](https://github.com/netinsight/schemats/pull/12) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
