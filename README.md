@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (4 weeks ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [eksctl: remove aws-iam-authenticator](https://github.com/Homebrew/homebrew-core/pull/173593) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (4 weeks ago)
+- [eksctl: remove aws-iam-authenticator](https://github.com/Homebrew/homebrew-core/pull/173593) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 month ago)
 - [fix: update software-terms dict](https://github.com/streetsidesoftware/cspell-dicts/pull/3242) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (1 month ago)
 - [Ignore missing containers when compose down/stop -p](https://github.com/docker/compose/pull/11692) on [docker/compose](https://github.com/docker/compose) (2 months ago)
 - [chore: Replace tslint with estslint](https://github.com/netinsight/schemats/pull/13) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
