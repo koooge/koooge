@@ -7,7 +7,7 @@
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (2 months ago)
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
