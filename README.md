@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (6 days ago)
-- [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (1 week ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 week ago)
+- [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (1 month ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
