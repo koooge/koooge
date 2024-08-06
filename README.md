@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Replace rmfr with rimraf](https://github.com/kristiandupont/kanel/pull/585) on [kristiandupont/kanel](https://github.com/kristiandupont/kanel) (3 weeks ago)
+- [chore: Replace rmfr with rimraf](https://github.com/kristiandupont/kanel/pull/585) on [kristiandupont/kanel](https://github.com/kristiandupont/kanel) (4 weeks ago)
 - [eksctl: remove aws-iam-authenticator](https://github.com/Homebrew/homebrew-core/pull/173593) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 months ago)
 - [fix: update software-terms dict](https://github.com/streetsidesoftware/cspell-dicts/pull/3242) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 months ago)
 - [Ignore missing containers when compose down/stop -p](https://github.com/docker/compose/pull/11692) on [docker/compose](https://github.com/docker/compose) (4 months ago)
