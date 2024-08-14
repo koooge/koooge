@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 day ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 days ago)
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (1 month ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 months ago)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (2 months ago)
