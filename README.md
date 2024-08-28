@@ -15,4 +15,4 @@
 - [chore: Replace deprecated IsMultiLingual with hugo.IsMultilingual](https://github.com/koooge/hugo-theme-geppaku/pull/43) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 week ago)
 - [chore: Replace rmfr with rimraf](https://github.com/kristiandupont/kanel/pull/585) on [kristiandupont/kanel](https://github.com/kristiandupont/kanel) (1 month ago)
 - [eksctl: remove aws-iam-authenticator](https://github.com/Homebrew/homebrew-core/pull/173593) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 months ago)
-- [fix: update software-terms dict](https://github.com/streetsidesoftware/cspell-dicts/pull/3242) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (2 months ago)
+- [fix: update software-terms dict](https://github.com/streetsidesoftware/cspell-dicts/pull/3242) on [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) (3 months ago)
