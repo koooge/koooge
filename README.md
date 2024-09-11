@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (3 weeks ago)
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (4 weeks ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (2 months ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (3 months ago)
