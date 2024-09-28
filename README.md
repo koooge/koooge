@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (1 day ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (2 months ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
-- [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
