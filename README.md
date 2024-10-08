@@ -6,7 +6,7 @@
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (1 week ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
-- [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (2 months ago)
+- [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (3 months ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (4 months ago)
 
 #### 🔨 My recent Pull Requests
