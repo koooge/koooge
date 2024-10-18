@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (2 weeks ago)
+- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (3 weeks ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (2 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 months ago)
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres (3 months ago)
