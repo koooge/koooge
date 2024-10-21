@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Change x-twitter icon](https://github.com/koooge/hugo-theme-geppaku/pull/46) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
-- [feat: Change x-twitter icon](https://github.com/masa0221/hugo-theme-geppaku/pull/17) on [masa0221/hugo-theme-geppaku](https://github.com/masa0221/hugo-theme-geppaku) (1 day ago)
+- [feat: Add bluesky](https://github.com/koooge/hugo-theme-geppaku/pull/47) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [feat: Change x-twitter icon](https://github.com/koooge/hugo-theme-geppaku/pull/46) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (2 days ago)
+- [feat: Change x-twitter icon](https://github.com/masa0221/hugo-theme-geppaku/pull/17) on [masa0221/hugo-theme-geppaku](https://github.com/masa0221/hugo-theme-geppaku) (2 days ago)
 - [docs: Update about output_sparse_status_metrics](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/pull/884) on [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) (2 months ago)
 - [chore: Replace deprecated IsMultiLingual with hugo.IsMultilingual](https://github.com/koooge/hugo-theme-geppaku/pull/43) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (2 months ago)
-- [chore: Replace rmfr with rimraf](https://github.com/kristiandupont/kanel/pull/585) on [kristiandupont/kanel](https://github.com/kristiandupont/kanel) (3 months ago)
