@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo](https://github.com/netinsight/schemats/pull/15) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [Fix typo](https://github.com/netinsight/schemats/pull/15) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 days ago)
 - [feat: Add bluesky](https://github.com/koooge/hugo-theme-geppaku/pull/47) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 week ago)
 - [feat: Change x-twitter icon](https://github.com/koooge/hugo-theme-geppaku/pull/46) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 week ago)
 - [feat: Change x-twitter icon](https://github.com/masa0221/hugo-theme-geppaku/pull/17) on [masa0221/hugo-theme-geppaku](https://github.com/masa0221/hugo-theme-geppaku) (1 week ago)
