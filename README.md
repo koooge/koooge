@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (today)
+- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 day ago)
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (1 month ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 month ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (2 months ago)
-- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (2 months ago)
+- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
