@@ -7,7 +7,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (2 months ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (2 months ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (3 months ago)
-- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (3 months ago)
+- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
