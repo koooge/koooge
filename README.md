@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 day ago)
+- [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 days ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 week ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (1 week ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (1 month ago)
