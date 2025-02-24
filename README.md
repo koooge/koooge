@@ -5,7 +5,7 @@
 
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (1 week ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 week ago)
-- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (2 weeks ago)
+- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (3 weeks ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (3 weeks ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (2 months ago)
 
