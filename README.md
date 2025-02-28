@@ -15,4 +15,4 @@
 - [feat: Bluesky share btn](https://github.com/koooge/hugo-theme-geppaku/pull/55) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (3 weeks ago)
 - [feat: Update bluesky icon](https://github.com/koooge/hugo-theme-geppaku/pull/54) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (3 weeks ago)
 - [Fix compose images that return a different image with the same ID](https://github.com/docker/compose/pull/12278) on [docker/compose](https://github.com/docker/compose) (3 months ago)
-- [chore: bump 0.4.5](https://github.com/netinsight/gitlab-yml/pull/18) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 months ago)
+- [chore: bump 0.4.5](https://github.com/netinsight/gitlab-yml/pull/18) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 months ago)
