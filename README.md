@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: don&#39;t lint connect() of not redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/103) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (1 day ago)
+- [fix: don&#39;t lint connect() of not redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/103) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (2 days ago)
 - [sea: suppress builtin warning with disableExperimentalSEAWarning option](https://github.com/nodejs/node/pull/57086) on [nodejs/node](https://github.com/nodejs/node) (3 weeks ago)
 - [feat: Bluesky share btn](https://github.com/koooge/hugo-theme-geppaku/pull/55) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 month ago)
 - [feat: Update bluesky icon](https://github.com/koooge/hugo-theme-geppaku/pull/54) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 month ago)
