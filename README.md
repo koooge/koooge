@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (2 days ago)
+- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (3 days ago)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 month ago)
@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (3 days ago)
+- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (4 days ago)
 - [fix: fix #104 ReferenceError: context is not defined](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/105) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (1 week ago)
 - [fix: don&#39;t lint connect() of not redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/103) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (2 weeks ago)
 - [sea: suppress builtin warning with disableExperimentalSEAWarning option](https://github.com/nodejs/node/pull/57086) on [nodejs/node](https://github.com/nodejs/node) (1 month ago)
