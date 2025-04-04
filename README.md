@@ -6,7 +6,7 @@
 - [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (1 week ago)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (1 month ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (1 month ago)
-- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (1 month ago)
+- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (2 months ago)
 - [koooge/ubuntu-provisionings](https://github.com/koooge/ubuntu-provisionings) - Provisioning files for Ubuntu (2 months ago)
 
 #### 🔨 My recent Pull Requests
