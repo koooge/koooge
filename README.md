@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (1 month ago)
+- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (2 months ago)
 - [fix: fix #104 ReferenceError: context is not defined](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/105) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (2 months ago)
 - [fix: don&#39;t lint connect() of not redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/103) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (2 months ago)
 - [sea: suppress builtin warning with disableExperimentalSEAWarning option](https://github.com/nodejs/node/pull/57086) on [nodejs/node](https://github.com/nodejs/node) (3 months ago)
