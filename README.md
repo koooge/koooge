@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (1 month ago)
+- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (2 months ago)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (3 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (3 months ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (3 months ago)
