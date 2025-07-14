@@ -11,7 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update rules](https://github.com/netinsight/gitlab-yml/pull/19) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 weeks ago)
+- [feat: Update rules](https://github.com/netinsight/gitlab-yml/pull/19) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 weeks ago)
 - [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (3 months ago)
 - [fix: fix #104 ReferenceError: context is not defined](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/105) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (3 months ago)
 - [fix: don&#39;t lint connect() of not redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/103) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (4 months ago)
