@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [netinsight/edge-cli](https://github.com/netinsight/edge-cli) - CLI tool for managing and monitoring Nimbra Edge installations (3 weeks ago)
-- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (5 months ago)
+- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (6 months ago)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨ (7 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (7 months ago)
 - [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (7 months ago)
