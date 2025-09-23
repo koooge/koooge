@@ -12,7 +12,7 @@
 #### 🔨 My recent Pull Requests
 
 - [contrib/chore: Ensure interfaces before setting up perftest](https://github.com/netinsight/edge-cli/pull/40) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (3 weeks ago)
-- [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edge-cli/pull/38) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (3 weeks ago)
-- [fix: Fix region param default_region](https://github.com/netinsight/edge-cli/pull/34) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (3 weeks ago)
+- [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edge-cli/pull/38) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (4 weeks ago)
+- [fix: Fix region param default_region](https://github.com/netinsight/edge-cli/pull/34) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (4 weeks ago)
 - [feat: Update rules](https://github.com/netinsight/gitlab-yml/pull/19) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 months ago)
 - [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (6 months ago)
