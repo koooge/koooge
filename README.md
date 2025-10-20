@@ -15,4 +15,4 @@
 - [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edge-cli/pull/38) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (1 month ago)
 - [fix: Fix region param default_region](https://github.com/netinsight/edge-cli/pull/34) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (1 month ago)
 - [feat: Update rules](https://github.com/netinsight/gitlab-yml/pull/19) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 months ago)
-- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (6 months ago)
+- [test: lint no-undef](https://github.com/DianaSuvorova/eslint-plugin-react-redux/pull/106) on [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) (7 months ago)
