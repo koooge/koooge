@@ -13,6 +13,6 @@
 
 - [chore(vector): specify docker.io/ by default](https://github.com/vectordotdev/helm-charts/pull/510) on [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) (1 month ago)
 - [contrib/chore: Ensure interfaces before setting up perftest](https://github.com/netinsight/edge-cli/pull/40) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (2 months ago)
-- [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edge-cli/pull/38) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (2 months ago)
-- [fix: Fix region param default_region](https://github.com/netinsight/edge-cli/pull/34) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (2 months ago)
+- [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edge-cli/pull/38) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (3 months ago)
+- [fix: Fix region param default_region](https://github.com/netinsight/edge-cli/pull/34) on [netinsight/edge-cli](https://github.com/netinsight/edge-cli) (3 months ago)
 - [feat: Update rules](https://github.com/netinsight/gitlab-yml/pull/19) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (5 months ago)
