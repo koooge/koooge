@@ -7,7 +7,6 @@
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (2 months ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (3 months ago)
 - [netinsight/edgectl](https://github.com/netinsight/edgectl) - CLI tool for managing and monitoring Nimbra Edge installations (7 months ago)
-- [DianaSuvorova/eslint-plugin-react-redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - Enforcing best practices for react-redux (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
