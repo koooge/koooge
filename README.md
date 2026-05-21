@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: move build to prepare](https://github.com/netinsight/gitlab-yml/pull/21) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
 - [Remove bluebird in favor of native Promise](https://github.com/confluentinc/confluent-kafka-javascript/pull/450) on [confluentinc/confluent-kafka-javascript](https://github.com/confluentinc/confluent-kafka-javascript) (3 months ago)
 - [chore(vector): specify docker.io/ by default](https://github.com/vectordotdev/helm-charts/pull/510) on [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) (7 months ago)
 - [contrib/chore: Ensure interfaces before setting up perftest](https://github.com/netinsight/edgectl/pull/40) on [netinsight/edgectl](https://github.com/netinsight/edgectl) (8 months ago)
 - [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edgectl/pull/38) on [netinsight/edgectl](https://github.com/netinsight/edgectl) (8 months ago)
-- [fix: Fix region param default_region](https://github.com/netinsight/edgectl/pull/34) on [netinsight/edgectl](https://github.com/netinsight/edgectl) (8 months ago)
