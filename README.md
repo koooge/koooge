@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: move build to prepare](https://github.com/netinsight/gitlab-yml/pull/21) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
-- [Remove bluebird in favor of native Promise](https://github.com/confluentinc/confluent-kafka-javascript/pull/450) on [confluentinc/confluent-kafka-javascript](https://github.com/confluentinc/confluent-kafka-javascript) (3 months ago)
-- [chore(vector): specify docker.io/ by default](https://github.com/vectordotdev/helm-charts/pull/510) on [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) (7 months ago)
-- [contrib/chore: Ensure interfaces before setting up perftest](https://github.com/netinsight/edgectl/pull/40) on [netinsight/edgectl](https://github.com/netinsight/edgectl) (8 months ago)
-- [contrib/fix: Change edge to edgectl](https://github.com/netinsight/edgectl/pull/38) on [netinsight/edgectl](https://github.com/netinsight/edgectl) (8 months ago)
+- [chore: update typescript and eslint](https://github.com/netinsight/gitlab-yml/pull/35) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [chore: upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/34) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [chore: husky 9](https://github.com/netinsight/gitlab-yml/pull/33) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [chore: set cooldown 3 days](https://github.com/netinsight/gitlab-yml/pull/30) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
+- [test: test with node24](https://github.com/netinsight/gitlab-yml/pull/22) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 day ago)
