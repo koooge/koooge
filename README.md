@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update typescript and eslint](https://github.com/netinsight/gitlab-yml/pull/35) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
-- [chore: upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/34) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
-- [chore: husky 9](https://github.com/netinsight/gitlab-yml/pull/33) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
-- [chore: set cooldown 3 days](https://github.com/netinsight/gitlab-yml/pull/30) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
-- [test: test with node24](https://github.com/netinsight/gitlab-yml/pull/22) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 days ago)
+- [chore: update typescript and eslint](https://github.com/netinsight/gitlab-yml/pull/35) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 days ago)
+- [chore: upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/34) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 days ago)
+- [chore: husky 9](https://github.com/netinsight/gitlab-yml/pull/33) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 days ago)
+- [chore: set cooldown 3 days](https://github.com/netinsight/gitlab-yml/pull/30) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 days ago)
+- [test: test with node24](https://github.com/netinsight/gitlab-yml/pull/22) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 days ago)
