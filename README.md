@@ -10,7 +10,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: only major version updates for github-actions](https://github.com/netinsight/gitlab-yml/pull/39) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (3 weeks ago)
+- [chore: only major version updates for github-actions](https://github.com/netinsight/gitlab-yml/pull/39) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (4 weeks ago)
 - [chore: update typescript and eslint](https://github.com/netinsight/gitlab-yml/pull/35) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 month ago)
 - [chore: upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/34) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 month ago)
 - [chore: husky 9](https://github.com/netinsight/gitlab-yml/pull/33) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (1 month ago)
