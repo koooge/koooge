@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: only major version updates for github-actions](https://github.com/netinsight/gitlab-yml/pull/39) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
-- [chore: update typescript and eslint](https://github.com/netinsight/gitlab-yml/pull/35) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
-- [chore: upgrade devDependencies](https://github.com/netinsight/gitlab-yml/pull/34) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
-- [chore: husky 9](https://github.com/netinsight/gitlab-yml/pull/33) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
-- [chore: set cooldown 3 days](https://github.com/netinsight/gitlab-yml/pull/30) on [netinsight/gitlab-yml](https://github.com/netinsight/gitlab-yml) (2 months ago)
+- [chore: tsconfig/dependency maintenance](https://github.com/netinsight/schemats/pull/24) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [Replace typescript-formatter with prettier](https://github.com/netinsight/schemats/pull/23) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [Remove lodash dependency](https://github.com/netinsight/schemats/pull/22) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [Upgrade TypeScript to 6.0.3 and ESLint to 10.8.0](https://github.com/netinsight/schemats/pull/21) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
+- [Test on Node.js 24 and 26 in CI](https://github.com/netinsight/schemats/pull/20) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 day ago)
