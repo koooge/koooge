@@ -6,7 +6,7 @@
 - [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) - Helm charts for Vector. (5 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (7 months ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (8 months ago)
-- [netinsight/edgectl](https://github.com/netinsight/edgectl) - CLI tool for managing and monitoring Nimbra Edge installations (11 months ago)
+- [netinsight/edgectl](https://github.com/netinsight/edgectl) - CLI tool for managing and monitoring Nimbra Edge installations (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
