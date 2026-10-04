@@ -11,6 +11,6 @@
 
 - [fix: rename build script to avoid triggering pacote git-dep preparation](https://github.com/netinsight/schemats/pull/31) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 month ago)
 - [fix: replace deprecated prepublish with prepublishOnly and release 3.2.1](https://github.com/netinsight/schemats/pull/30) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 month ago)
-- [chore: tsconfig/dependency maintenance](https://github.com/netinsight/schemats/pull/24) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 month ago)
-- [Replace typescript-formatter with prettier](https://github.com/netinsight/schemats/pull/23) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 month ago)
-- [Remove lodash dependency](https://github.com/netinsight/schemats/pull/22) on [netinsight/schemats](https://github.com/netinsight/schemats) (1 month ago)
+- [chore: tsconfig/dependency maintenance](https://github.com/netinsight/schemats/pull/24) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
+- [Replace typescript-formatter with prettier](https://github.com/netinsight/schemats/pull/23) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
+- [Remove lodash dependency](https://github.com/netinsight/schemats/pull/22) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
