@@ -5,7 +5,7 @@
 
 - [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) - Helm charts for Vector. (7 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (8 months ago)
-- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (9 months ago)
+- [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
