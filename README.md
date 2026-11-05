@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/yomikazu](https://github.com/koooge/yomikazu) - Narrator ranking (2 days ago)
+- [koooge/yomikazu](https://github.com/koooge/yomikazu) - Narrator ranking (3 days ago)
 - [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) - Helm charts for Vector. (8 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (9 months ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (10 months ago)
