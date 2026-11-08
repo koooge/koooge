@@ -1,5 +1,5 @@
-[![koooge's github stats](https://github-readme-stats.vercel.app/api?username=koooge&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koooge&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![koooge's github stats](https://github-stats-extended.vercel.app/api?username=koooge&count_private=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=koooge&langs_count=5)](https://github.com/stats-organization/github-stats-extended)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
