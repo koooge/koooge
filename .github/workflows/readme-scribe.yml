@@ -2,15 +2,36 @@ name: Update README
 
 on:
   push:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@master
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=koooge&count_private=true&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=koooge&langs_count=5
+          path: profile/top-langs.svg
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          fail_on_error: true
 
       - uses: muesli/readme-scribe@master
         env:
