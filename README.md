@@ -1,5 +1,5 @@
-[![koooge's github stats](https://github-stats-extended.vercel.app/api?username=koooge&count_private=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=koooge&langs_count=5)](https://github.com/stats-organization/github-stats-extended)
+[![koooge's github stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-stats-extended)
 
 #### 👷 Check out what I'm currently working on
 
