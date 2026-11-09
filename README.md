@@ -3,15 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [koooge/yomikazu](https://github.com/koooge/yomikazu) - Narrator ranking (6 days ago)
+- [koooge/blog](https://github.com/koooge/blog) - Wannabe engineer&#39;s blog (today)
+- [koooge/yomikazu](https://github.com/koooge/yomikazu) - Narrator ranking (1 week ago)
 - [vectordotdev/helm-charts](https://github.com/vectordotdev/helm-charts) - Helm charts for Vector. (8 months ago)
 - [koooge/dotfiles](https://github.com/koooge/dotfiles) - my dotfiles (9 months ago)
 - [koooge/advent-of-code](https://github.com/koooge/advent-of-code) - https://adventofcode.com/ (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: rename build script to avoid triggering pacote git-dep preparation](https://github.com/netinsight/schemats/pull/31) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
-- [fix: replace deprecated prepublish with prepublishOnly and release 3.2.1](https://github.com/netinsight/schemats/pull/30) on [netinsight/schemats](https://github.com/netinsight/schemats) (2 months ago)
-- [chore: tsconfig/dependency maintenance](https://github.com/netinsight/schemats/pull/24) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
-- [Replace typescript-formatter with prettier](https://github.com/netinsight/schemats/pull/23) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
-- [Remove lodash dependency](https://github.com/netinsight/schemats/pull/22) on [netinsight/schemats](https://github.com/netinsight/schemats) (3 months ago)
+- [test: validate generated HTML and fix invalid markup](https://github.com/koooge/hugo-theme-geppaku/pull/62) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [test: fail on Hugo warnings and check internal links](https://github.com/koooge/hugo-theme-geppaku/pull/61) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [fix: resolve Hugo warnings and update GitHub Actions](https://github.com/koooge/hugo-theme-geppaku/pull/60) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [chore: update frontend tooling and Dependabot settings](https://github.com/koooge/hugo-theme-geppaku/pull/57) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [chore: update Hugo to 0.169.0](https://github.com/koooge/hugo-theme-geppaku/pull/56) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
