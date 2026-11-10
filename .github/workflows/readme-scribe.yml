@@ -1,6 +1,7 @@
 name: Update README
 
 on:
+  pull_request:
   push:
     branches:
       - main
@@ -13,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      GH_TOKEN: ${{ github.ref == 'refs/heads/main' && secrets.PERSONAL_GITHUB_TOKEN || github.token }}
 
     steps:
       - uses: actions/checkout@v6
@@ -23,7 +26,7 @@ jobs:
           card: stats
           options: username=koooge&count_private=true&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          token: ${{ env.GH_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
@@ -32,17 +35,19 @@ jobs:
           card: top-langs
           options: username=koooge&langs_count=5
           path: profile/top-langs.svg
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          token: ${{ env.GH_TOKEN }}
           fail_on_error: true
 
       - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
+        if: github.ref == 'refs/heads/main'
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ env.GH_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
       - name: Commit README and cards
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
