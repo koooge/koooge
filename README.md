@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: validate generated HTML and fix invalid markup](https://github.com/koooge/hugo-theme-geppaku/pull/62) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
-- [test: fail on Hugo warnings and check internal links](https://github.com/koooge/hugo-theme-geppaku/pull/61) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
-- [fix: resolve Hugo warnings and update GitHub Actions](https://github.com/koooge/hugo-theme-geppaku/pull/60) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
-- [chore: update frontend tooling and Dependabot settings](https://github.com/koooge/hugo-theme-geppaku/pull/57) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
-- [chore: update Hugo to 0.169.0](https://github.com/koooge/hugo-theme-geppaku/pull/56) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (today)
+- [feat: configure author links and share buttons in display order](https://github.com/koooge/hugo-theme-geppaku/pull/69) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [fix: scope archive listings and preserve language in sidebar links](https://github.com/koooge/hugo-theme-geppaku/pull/68) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [chore: remove Pocket and Google&#43; share buttons](https://github.com/koooge/hugo-theme-geppaku/pull/67) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [refactor: render mathematics with Hugo ToMath](https://github.com/koooge/hugo-theme-geppaku/pull/66) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
+- [fix: resolve taxonomy links through Hugo term pages](https://github.com/koooge/hugo-theme-geppaku/pull/65) on [koooge/hugo-theme-geppaku](https://github.com/koooge/hugo-theme-geppaku) (1 day ago)
